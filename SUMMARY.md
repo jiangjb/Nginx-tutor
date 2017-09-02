@@ -9,7 +9,7 @@
 * [5. 监控工具 ngxtop](chapters/5.md)
 * [6. 编译第三方模块](chapters/6.md)
 * [7. auth_basic 模块使用](chapters/7.md)
-* [8. 日志分析工具](chapters/9.md)
+* [8. 日志分析工具](chapters/8.md)
 * [9. 用 nginx 搭建谷歌镜像网站](chapters/9.md)
 * [10. 自制启动脚本](chapters/10.md)
 * [11. 日志切割](chapters/11.md)
